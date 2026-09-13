@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+highscore.txt
+
+.pytest_cache/
+
+venv/
+env/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
